@@ -1,4 +1,5 @@
 # NWSLStatistics
+<center>
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b9799e0d-bcd3-43e7-9427-f0250486a04c" />
 
 
@@ -8,3 +9,4 @@ Key metrics include shots on goal per game, goal conversion rate, assists per go
 
 Visualizations highlight trends in team efficiency, attacking style, and improvements over time.
 Insights are directly actionable for coaches, analysts, and performance strategists.
+</center>
